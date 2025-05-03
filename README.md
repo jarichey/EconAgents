@@ -18,10 +18,14 @@ The supply and demand is set up so the theoretical equilibrium is about 115, and
 
 ![Sales of Three Runs](images/sale_prices.png)
 
-The ultimatum game results show that the agents do in fact act differently depending on their personas:
+The ultimatum game results show that the agents do in fact act differently depending on their personas. Here are a few people's distributions of what they intend to keep:
 
-![Distribution of a Few Persons](images/keep_distributions.png)
+![Keep Distribution](images/keep_distributions.png)
 
-![Distribution of T-stats of Equality of Average Keep Amount](images/keep_distributions.png)
+Here is the distribution of all cross individuals t-stat test for equality of average offer:
+
+![Distribution of T-stats of Equality of Average Keep Amount](images/tstat_distributions.png)
+
+And here is an excerpt of regressions showing political leaning has large effect on what the agent offers to keep for themselves:
 
 ![Regression Excerpt Showing Political Lean Has Large Effect](images/reg_results.png)
